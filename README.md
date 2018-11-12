@@ -1,6 +1,6 @@
 # AEVB In PyTorch
 
-A custom implementation of AEVB/VAE in PyTorch
+A custom implementation of *Automatic AutoEncoding Variational Bayes* / *Variational AutoEncoder* in PyTorch
 
 Here are some results:
 
